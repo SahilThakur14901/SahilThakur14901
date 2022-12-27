@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil Thakur
-- 👀 I’m interested in Anime and Cricket
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Anime, Paleontology and Cricket
+- 🌱 I’m currently learning Python, Web Development and Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG-@the_69_thakur  Gmail-thakursahil14901@gmail.com
 
